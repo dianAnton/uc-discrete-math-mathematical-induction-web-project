@@ -3,7 +3,7 @@
 Página web donde podemos ver el layout básico de una página web donde podemos aprender acerca de la Inducción Matemática para Matemáticas Discretas. 
 La página solo es el landing page. El diseño fue hecho en Figma y es completamente Responsive.
 
-![alt text](https://github.com/dianAnton/uc-discrete-math-mathematical-induction-web-project/blob/main/style/assets/images/Frame 2.png?raw=true)
+![alt text](https://github.com/dianAnton/uc-discrete-math-mathematical-induction-web-project/blob/main/style/assets/images/Frame2.png?raw=true)
 
 ### Distribución de la página:
 
