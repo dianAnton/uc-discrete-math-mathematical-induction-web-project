@@ -13,6 +13,11 @@ La página solo es el landing page. El diseño fue hecho en Figma y es completam
     -   ##### ✅Estructura de carpetas. Separamos el HTML del CSS.
     -  ##### ✅ Uso de archivo index.html como página principal.
     -   ##### ✅Layout hecho de antemano, en Figma, y posteriormente trasnferido completamente mediante CSS y HTML.
+  
+Primer diseño realizado:
+![alt text](https://github.com/dianAnton/uc-discrete-math-mathematical-induction-web-project/blob/main/style/assets/images/Frame1.png?raw=true)
+
+
 2.  **Interfaces y modularidad:**
     
     -   ✅ Interface simple. Contamos con la posibilidad de acceder a las secciones en todo momento.
