@@ -12,13 +12,15 @@ La página solo es el landing page. El diseño fue hecho en Figma y es completam
     
     -   ##### ✅Estructura de carpetas. Separamos el HTML del CSS.
     -  ##### ✅ Uso de archivo index.html como página principal.
-    -   ##### ✅Reciclamos archivos de estilo para diferentes páginas HTML, ahorrando espacio y evitando la repetición.
+    -   ##### ✅Layout hecho de antemano, en Figma, y posteriormente trasnferido completamente mediante CSS y HTML.
 2.  **Interfaces y modularidad:**
     
-    -   ✅Interface simple. Contamos con la posibilidad de acceder a los capítulos en todo momento.
+    -   ✅ Interface simple. Contamos con la posibilidad de acceder a las secciones en todo momento.
 
 5.  **Flujo del programa:**
     
-    -  ✅  Inicio con una ventana de principal.
-    -  🟠 Ventana principal con secciones, donde podemos accerder a los capítulos y el contexto.
+    -  ✅ Inicio con una ventana de principal.
+    -  ✅ Animación de carga de contenedores con tiempo de espera
+    -  ✅ Animación de Hover effect cuando pasamos por las posibles secciones.
+    -  🟠 Falta por completar las demás secciones.
 
